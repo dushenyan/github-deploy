@@ -1,16 +1,14 @@
-## JQBTDSBN
+# github-deploy
 
-发布地址 https://dbudaiya.github.io/Github_Page/
+<a href="https://dushenyan.github.io/github-deploy/" class="read-more">查看网站 <span class="ml-2 right-icon">&#8594;</span></a>
 
-使用到相关技术
-https://www.bootcdn.cn/ cdn 使用相关网链
-bootstrap v4.4.1 https://v4.bootcss.com/
-jquery v3.4.1
+### 项目介绍
 
-<span class="ml-2 right-icon f-24">&#8594;</span>
+使用github为网站提供部署服务以及部署流进程运行
 
-feather 库 各种颜色字体样式 mb-4
+### 相关链接
 
- <a href="#" class="read-more">
-                                Read More <span class="ml-2 right-icon">&#8594;</span>
-                            </a>
+- [项目地址](https://github.com/dushenyan/github-deploy)
+- [feather SVG库](https://feathericons.com/)
+
+
