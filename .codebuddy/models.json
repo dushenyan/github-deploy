@@ -1,0 +1,37 @@
+{
+  "models": [
+    {
+      "id": "openai/gpt-4o",
+      "name": "GPT-4o 编码专用",
+      "vendor": "OpenAI",
+      "apiKey": "sk-your-openai-key", 
+      "maxInputTokens": 128000,
+      "maxOutputTokens": 16384,
+      "url": "https://api.openai.com/v1/chat/completions",
+      "supportsToolCall": true,
+      "supportsImages": false 
+    },
+    {
+      "id": "anthropic/claude-3-opus",
+      "name": "Claude 3 Opus 编码",
+      "vendor": "Anthropic",
+      "apiKey": "sk-WuyCYovpJCI7AQyv4JnofAyWlFYYe7GDuQdgzHkepNuEyws7", 
+      "maxInputTokens": 200000,
+      "maxOutputTokens": 8192,
+      "url": "https://yibuapi.com/v1/chat/completions",
+      "supportsToolCall": true,
+      "supportsImages": false
+    },
+    {
+      "id": "deepseek/deepseek-coder-v2",
+      "name": "DeepSeek-Coder V2",
+      "vendor": "DeepSeek",
+      "apiKey": "sk-8aa099ab1989457e946803f723a9487d",
+      "maxInputTokens": 128000,
+      "maxOutputTokens": 8192,
+      "url": "https://api.deepseek.com/v1/chat/completions",
+      "supportsToolCall": true,
+      "supportsImages": false
+    }
+  ]
+}

@@ -1,5 +1,14 @@
 # github-deploy
 
+使用GitHub为网站提供部署服务以及部署流程运行
+
+<div style="display: none;">
+  <title>github-deploy</title>
+  <description>使用GitHub为网站提供部署服务以及部署流程运行</description>
+  <repository>https://github.com/dushenyan/github-deploy</repository>
+  <icon>https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg</icon>
+</div>
+
 <a href="https://dushenyan.github.io/github-deploy/" class="read-more">查看网站 <span class="ml-2 right-icon">&#8594;</span></a>
 
 ### 项目介绍
